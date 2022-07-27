@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Wasif Izar</h1>
+<h1 align="center">Hey 👋, I'm Aksa Nazir</h1>
 <h3 align="center">Learning & Creating Mobile, Web Apps</h3>
 
 <br/>
@@ -41,23 +41,23 @@
 <h3> 📈 &nbsp;GitHub Analytics </h3>
 
 
-<a href="https://github.com/wasif-izar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif-izar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wasif-izar" />
+<a href="https://github.com/Aksa-nazir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aksa-nazir&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Aksa-nazir" />
 </a>
 
 <br/>
 
-<a href="https://github.com/wasif-izar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasif-izar&show_icons=true&theme=merko&locale=en" alt="wasif-izar" />
+<a href="https://github.com/Aksa-nazir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aksa-nazir&show_icons=true&theme=merko&locale=en" alt="Aksa-nazir" />
 </a>
 
 <br />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://linkedin.com/in/wasif-izar-a32935171" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wasif-izar-a32935171" /></a>
-<a href="https://instagram.com/wasif_izhar_32" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wasif_izhar_32" /></a>
-<a href="mailto:wasifizar99@gmail.com"><img align="center" src="https://img.shields.io/badge/-wasifizar99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aksa-nazir-9887521b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksa-nazir-9887521b5" /></a>
+
+<a href="mailto:aksanazir9990@gmail.com"><img align="center" src="https://img.shields.io/badge/-aksanazir9990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
@@ -65,7 +65,7 @@
 
 
 <!--
-**wasif-izar/wasif-izar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aksa-nazir/Aksa-nazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
