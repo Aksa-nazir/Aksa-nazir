@@ -55,7 +55,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aksa-nazir-9887521b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-Wasif%20Izar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksa-nazir-9887521b5" /></a>
+<a href="https://www.linkedin.com/in/aksa-nazir-9887521b5/" target="blank"><img align="center" src="https://img.shields.io/badge/-Aksa%20Nazir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksa-nazir-9887521b5" /></a>
 
 <a href="mailto:aksanazir9990@gmail.com"><img align="center" src="https://img.shields.io/badge/-aksanazir9990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
